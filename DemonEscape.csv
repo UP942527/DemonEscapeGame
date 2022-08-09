@@ -1,0 +1,155 @@
+0;1;1;-;You are dragged to the floor by the chains. Your muscles bruising as the demonic chains grasp at your lifeforce.
+1;2;2;-;As you lie there, tormented by the spell, a silhouette you can't quite make out breaks the cursed chains, ending your suffering.
+2;3;3;-;The figure moves closer as you regain your vision.
+3;4;4;-;you remain laying down, eyes fixed on the suspicious figure, alerted as a deer in headlights
+4;5;132;How do you react? Go for the kill on the figure, (nobody here is trustworthy), or, Wait until the suspicious figure becomes visible?;-
+5;6;6;-;Go for the kill on the figure,as nobody here is trustworthy,
+6;7;7;-;as the figure draws closer they let down their guard and look away -- precious seconds in which you right hook him, knocking him out.
+7;8;8;-;You need to finish him before he wakes
+8;9;9;-;You grab the meager blade you brought with you -- and get to work.
+9;10;10;-;The stranger appears to have been much better equipped than you, having some magical grimoire as well as a sword.
+10;11;11;-;Wielding the magical grimoire seems more than likely to get you killed, so you take your chances with the sword and move onwards.
+11;12;14;You walk through the cavern to an intersection, will you take the upper cavern path or the lower? upper(1) or lower(2);-
+12;13;13;-;upper -- you take the upper path, it leads you off a cliff. sucks to suck!
+13;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
+14;15;15;-;lower -- The path darkens, the light  weakens, the cave ahead is dark and gloomy, but with great reward.
+15;16;16;-;You move forwards with your newly-acquired blade, looking through the dim demonic cave for any possible figures. opponents. enemies?
+16;17;17;-;The path splits again, this time to a lower path with the sound of running water, and an upper path with fiery light flickering on the adjacent cavern walls.
+17;18;63;which way do you go? upper... or, lower...;-
+18;19;19;-;upper...
+19;20;20;-;you reach a cavernous room. The perimeter of the room is a square shape, littered with coins and treasures of various sizes, and a demonic figure sitting in the middle of it all.
+20;21;21;-;The demonic  figure speaks: "Is that the blade of aeons? yes(1) or no(2)"
+21;22;23;is it?;-
+22;27;27;-;yes
+23;24;24;-;no
+24;25;25;-;In an instant, the demon covers the distance between his claws and your organs, disembowling you and watching the blood drain from your body, then throwing your lifeless carcass at the wall with such force that what remained inside your corpse is now covering most of the walls as red paint.
+25;26;26;-;Demon:"Traitor"
+26;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
+27;28;28;-;no
+28;29;29;-;The demonic figure laughs: "haha good, for I would have had to kill you as a traitor. That is however a mighty fine sword, care to trade it for some gold?"
+29;30;58;trade it? (1)yes (2)no;-
+30;31;31;-;yes
+31;32;32;-;you hand over the sword, and the deon points you to a pouch of gold coins
+32;33;33;-;you exclaim to the demon you best be on your way. As you leave the room, you hear the demon laugh and say "theres nowhere to go", which he thoroughly denies doing when questioned.
+33;34;34;-;The path suddenly narrows
+34;35;42;-;An old shop keeper shouts "BUY MY WARES, IT'S THE ONLY WAAAY!"
+35;36;36;-;What do you recommend?
+36;37;37;-;ohh we actually have a sale going on right now on the..
+37;38;51;let him finish.. or.. kill him;-
+38;39;39;-;let him finish
+39;40;40;-;the shopkeeper rambles on for a while, you look away and you realise your body feels achy, your hair looks gray. You use the shopkeeper's mirror and see that you have aged tremendously!!! The shopkeeper's sales pitch is 1000 years long! he entranced you!!!
+40;41;41;-;You attempt to move but instead crumble to dust!!!
+42;43;43;-;NOOOO!!!!! (attack)
+43;44;44;-;you pounce at the old man, and start throwing fist after fist into his body. After a few blows and reddened fists, his body appears lifeless.
+44;45;45;-;he then ressurects in front of your eyes.
+45;46;46;-;old shopkeeper: "well, let's not let that happen again shall we"
+46;47;47;-;you buy a potion and say you best be on your way, but the glint in the old shopkeeper's eye somehow you can't help feel but you've been tricked.
+47;48;48;-;Against your better judgement, you drink the potion.
+48;49;49;-;you immediately  start feeing hot, before spontaneously combusting!!
+49;50;50;-;The magical fire sears your flesh, and doesn' t  let you die until the last bit of your body  has combusted, keeping you in agonising awareness of your pain until the last moment.
+50;0;0;YOU HAVE DIED!Try again? (both options will take you to the start of the game);-
+51;52;52;-;"on second thought, I don't care" disembowels old shopkeeper
+52;53;53;-;the old shopkeeper is spread all over the goods he was once so eagerly selling.
+53;54;54;-;he then ressurects in front of your eyes
+54;55;55;-;old shopkeeper:"that was rude"
+55;56;56;-;old shopkeeper:"I dont like rude strangers they get the fire"
+56;57;57;-;right after saying this, the old shopkeeper hurls a fireball at you, burning you to a crisp.
+57;0;0;YOU HAVE DIED!Try again? (both options will take you to the start of the game);-
+58;59;59;-;you exclaim to the demon you best be on your way. As you leave the room, you hear the demon laugh and say theres nowhere to go, to which you retort  yeah, for who i'm slaying. The demon appears to visibly  respect you more.
+59;60;60;-;You wonder if the demon was admiring your courage, or your stubborness.
+60;61;61;-;as you leave the room, the path leads to a dead end.. you hear a laugh from the room behind -- the demon has tricked you!!
+61;62;62;-;the path behind you begins to close in, crushing your body and grinding your bones!!
+62;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
+63;64;64;-;lower...
+64;65;65;-;you reach a cavernous room. The perimeter of the room is a circular shape, and has candles of various sizes littered around the room, with an altar in the middle. Behind the altar is an old, frail but noble looking figure, covered in grand and dazzling medals and ribbons of previous glories.
+65;66;66;-;The old man coughs out in speech:"That blade.. are you the last of my knights?"
+66;67;73;are you? answer him. yes(1) no(2);-
+67;68;68;-;"yes"
+68;69;69;-;old man:"YOU LIE!!"
+69;70;70;-;The "old" man seems to remember his youth and hurls himself at you, swinging a grand blade that was unsheathed before you even noticed.
+70;71;71;-;You attempt to block the blade with the stolen sword, but it didn't even halt his blade for a moment, as the old man immediately goes in for a jab, which finds its place deep within your stomach.
+71;72;72;-;The old man then pulls the blade back out, heaving out a great amount of your blood onto the reddened floor.
+72;0;0;YOU HAVE DIED!Try again? (both options will take you to the start of the game);-
+73;74;74;-;old man:"So you did not attempt to deceive me, that is a good start." the old man croaks."
+74;75;75;-;old man:"I will go first. I am a Demon king of old, last monarch of my line. My infernal castle has been taken from me by a chaotic evil, that distorts and attacks this world, plunging it into chaos and combat. So then, who are you?"
+75;76;81;answer him? no(1) yes(2);-
+76;77;77;-;"no"
+77;78;78;-;old man: "I see.."
+78;79;79;-;old man: "I have no use for you then. Nothing personal but you also killed one of my favourite guards, so I see it only fit to take your life in his place."
+79;80;80;-;your vision hazes as the old man takes you under his control through mind manipulation magic!! You will now be made to do his bidding for all of eternity!!
+80;0;0;YOU LOSE!Try again? (both options will take you to the start of the game);-
+81;82;82;-;I am a stranger who was controlled by the chaos, I had been controlled to kill one of your soldiers
+82;83;83;-;old man: "I see.."
+83;84;84;-;old man:"If you repay me by helping me with an enemy, I will lead you out of this domain- I see it on you, how much you wish to escape"
+84;85;85;-;You hastily accept
+85;86;86;-;The old man tells you gripping tales of combat, of his campaigns, and you feel invigorated and wisened
+86;87;87;-;Gained: "Veteran's knowledge!" You feel Stronger!
+87;88;88;-;The old man prepares a portal to the enemy, you step in and are instantly teleported to a location full of old, stony, cracked architecture. All the stone had a marbly texture to it that glimmered strangely, with neon light in the cracks.
+88;89;89;-;You see a grand colosseum before you, further across the street. as you step forward the path becomes enlightened, the cracks in the ground to the colosseum are glowing a bright red, and you begin to run to the colosseum.
+89;90;90;-;You enter the colosseum. immediately, a sword is swung at you by a creature that looks triple your size, somehomw you kow what must be done.
+90;91;96;react quickly! either You dash forwards while dodging(1) or You dash backwards to dodge(2);-
+91;92;92;-;You dash forwards while dodging
+92;93;93;-;The cyclops goes to remove it's blade from the ground, but you get to it first as you slice off it's right arm. the cyclops writhes in agony as you begin sending blade thrusts and slices without hesitancy, with each blow severing, tearing and contorting flesh and blood.
+93;94;94;-;The cyclops dies slowly from this, afterwards you become relieved as you remember you are the main character and main characters dont get PTSD.
+94;95;95;-;The old man, after seeing the cyclops that destroyed his former glory be defeated, died calmly as the revenge that had strived him to live for longer finally left his body, relieving him from suffering. With his last breath he teleports you out of the hellish domain.
+95;0;0;-;YOU WIN! Try again?
+96;97;97;-;You dash backwards to dodge
+97;98;98;-;The cyclops's large blade smashes into the ground, breaking up debris.
+98;99;107;react quickly! either, you lunge at the cyclops(1) or, you evade backwards(2);-
+99;100;100;-;you lunge at the cyclops
+100;101;101;-;you lunge at the cyclops --  the cyclops has just enough time to bring its large blade out of the ground and block your blow.
+101;102;110;react quickly ! you break the distance between yourself and the cyclops(1) or, you wait for the cyclops to approach(2);-
+102;103;103;-;you break the distance between yourself and the cyclops
+103;104;104;-;you break the distance between yourself and the cyclops -- the cyclops raises it's blade but not in time!! You pierce through the cyclops' chest, then quickly bury your blade deep in it's heart, bathing in the blood of  the enemy as you draw the blade out of the creatures' now lifeless body.
+104;105;105;-;The old man teleports you to him, and after seeing you covered in blood gains a newfound respect for you.
+105;106;106;-;The old man, after seeing the cyclops that destroyed his former glory be defeated, died calmly as the revenge that had strived him to live for longer finally left his body, relieving him from suffering. With his last breath he teleports you out of the hellish domain.
+106;0;0;-;YOU WIN! Try again?
+107;108;108;-;you evade backwards
+108;109;109;-;your attempt to evade wasn't met with much hesitancy -- on the cyclops's side, as it dashes forward and throws the great blade at you, decimating you with one blow before you even knew what happened.
+109;0;0;YOU HAVE DIED!Try again? (both options will take you to the start of the game);-
+110;111;111;-;you wait for the cyclops to approach
+111;112;112;-;the cyclops begins running forward, each step making the earth quake !!
+112;113;117;react quickly! you begin running back(1) or, you begin running forward too(2);-
+113;114;114;-;you begin running back
+114;115;115;-;the cyclops, upon seeing you turn your back on it, immediately starts running faster!!
+115;116;116;-;It doesn't take long before the cyclops's inhuman strength closes the distance, and it's blade the distance between your heart and the hot cavern air.
+116;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
+117;118;118;-;you begin running forward too
+118;119;119;-;you begin running forward too -- the cyclops sees this and, with an insulted look on his face begins to run faster!!
+119;120;124;The cyclops is about to reach you as you... slice him while running(1) or, step to the side(2);-
+120;121;121;-;slice him while running
+121;122;122;-;you attempt to slice the cyclops while running -- the cyclops however just keeps running!!! It holds one arm up, and tackles into you, crushing your bones and some internal organs!!
+122;123;123;-;The cyclops then tears out your still beating heart, that was unfortunate enough to survive the initial tackle -- and crushes it to display victory!!
+123;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
+124;125;125;-;step to the side
+125;126;126;-;you step to the side -- the cyclops narrowly misses you, catching the cyclops off guard!
+126;127;127;-;you use this chance to hurl yourself up onto the cyclops and in one swift motion, severing the great creature, blood spraying from it's  neck as the corpse slumps into a kneeling position.
+127;128;128;-;This newfound power was like nothing you could imagine, were you really going to return to whatever boring domain you were in before? No. Here, you have all the power, and you weren't going to relinquish it so easily.
+128;129;129;-;The old man teleports you to him, congratulating you on saving the kingdom.
+129;130;130;-;You however, now having greater ambitions, take power for yourself by slaying the old man, and taking his place. The guards that see you salute you, knowing that the law of the demon world is the strongest rules the throne.
+130;131;131;-;You set out to control the demon world, and after this goal is reached you are driven mad by power. The kingdom will see dark days.
+131;0;0;YOU WIN! (but the demons don't!) Try again? (both options will take you to the start of the game);-
+132;133;133;-;Wait until the suspicious figure becomes visible
+133;134;134;-;As the figure approaches it greets you with a hearty laugh, followed by : That spell wont leech anyone now!
+134;135;135;-;Ask the stranger a question.
+135;136;143;"Who are you?" or "Where are we?";-
+136;137;137;-;Stranger:"I am but a lone wanderer"
+137;138;138;-;a lone wanderer in hell?
+138;139;139;-;Stranger:"I am but a lone wanderer, I mean no harm"
+139;140;140;-;As the stranger says this, you see a glimmer of wht appears to be blood drip out of the inside of their coat. you back off.
+140;141;141;-;The stranger sees this and immediately extends a cloaked arm. a sharp spine extends from the cloak and pierces your head, killing you almost instantly!!
+141;142;142;-;some hands then extend from the accursed strangers coat, to gather your flesh back underneath it.
+142;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
+143;144;144;-;"Where are we?"
+144;145;145;-;Stranger: "Repent, for we are in hell." the stranger exclaims"
+145;146;146;-;What made this world has forsaken us, and we are left here to suffer
+146;147;152;respond? "that sounds a tad dramatic", or, "Cry";-
+147;148;148;-;you: "that sounds a tad dramatic"
+148;149;149;-;Stranger: "I'll show you dramatic!"
+149;150;150;-;The stranger's cloak ripples, revealing a grimoire that is now casting a bright light!
+150;151;151;-;the light seeks you out in an instant, carving open your stomach and spilling its contents on the rough, cold floor
+151;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
+152;153;153;-;Cry
+153;154;154;-;As you weep, the stranger's face turns into pity, and then into disgust.
+154;155;155;-;Apparently demons aren't as trustworthy as humans, which is a lesson you learned the hard way. The cloaked demon, taking your crying for weakness, decided to make short work of you in this emotional moment, and check your corpse for anything valuable afterwards.
+155;0;0;YOU HAVE DIED! Try again? (both options will take you to the start of the game);-
